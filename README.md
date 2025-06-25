@@ -26,5 +26,13 @@ To reproduce the results saved in `results`, run `run_clipdissect.sh`.
 It requires a lot of memory, so it might be needed to split by layers. 
 
 ## Cite this work
+Dorszewski, Teresa, et al. "From colors to classes: Emergence of concepts in vision transformers." arXiv preprint arXiv:2503.24071 (2025)
 
-tba
+```
+@article{dorszewski2025colors,
+  title={From colors to classes: Emergence of concepts in vision transformers},
+  author={Dorszewski, Teresa and T{\v{e}}tkov{\'a}, Lenka and Jenssen, Robert and Hansen, Lars Kai and Wickstr{\o}m, Kristoffer Knutsen},
+  journal={arXiv preprint arXiv:2503.24071},
+  year={2025}
+}
+```
